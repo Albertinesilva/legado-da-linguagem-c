@@ -11,7 +11,7 @@ void main()
     setlocale(LC_ALL,"portuguese");
 
     char nome1='x';
-    char nome2='0';
+    char nome2='0'; 
 
     char mat[3][3]= {'1','2','3','4','5','6','7','8','9'};
 
