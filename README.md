@@ -69,4 +69,6 @@ Este repositório também é baseado em diversos materiais de estudo, incluindo:
 Este repositório reflete minha evolução na **Linguagem C** e serve como referência para meus futuros projetos e desafios na área da programação. Espero que este material também possa ser útil para outros estudantes que desejam aprimorar suas habilidades na linguagem.
 
 ---
-#### 👤 **Autor:** [Albert Silva](https://www.linkedin.com/in/albert-backend-java-spring-boot/)
+| 🌎 LinkedIn | 👤 **Autor** |
+|------------|---------------|
+| [LinkedIn](https://www.linkedin.com/in/albert-backend-java-spring-boot/) | [Albert Silva](https://www.linkedin.com/in/albert-backend-java-spring-boot/) |
