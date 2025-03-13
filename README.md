@@ -1,17 +1,23 @@
 <h1 align="center">Material de estudo e pesquisa sobre Linguagem C</h1>
 
-## 📌 Introdução
+### 📌 Introdução
 Este repositório contém todos os projetos, exercícios e estudos desenvolvidos ao longo da minha trajetória acadêmica no **IFBA - Instituto Federal de Educação, Ciência e Tecnologia da Bahia**, além de materiais baseados em diversas fontes de aprendizado, incluindo cursos online, livros e pesquisas em comunidades de programação.
 
-## 🎯 Objetivo
+---
+
+### 🎯 Objetivo
 O objetivo deste repositório é reunir e documentar meu aprendizado contínuo em **Linguagem C**, servindo como um **portfólio** das minhas habilidades adquiridas. Os materiais aqui organizados abrangem desde conceitos fundamentais até implementações avançadas de algoritmos e estruturas de dados.
 
-## 🛠️ Tecnologias Utilizadas
+---
+
+### 🛠️ Tecnologias Utilizadas
 - **Linguagem C**
 - **Banco de Dados** (MySQL Workbench e Xampp)
 - **Ambientes de Desenvolvimento**: CodeBlocks e Visual Studio Code
 
-Este repositório serve como um **portfólio** das minhas habilidades e conhecimentos adquiridos na linguagem **C**.
+---
+
+### 📂 Estrutura do Repositório
 
 📂 **Repositório de Projetos em C**  
 ├── 🔹 **Projetos e Exercícios**  
@@ -43,7 +49,9 @@ Este repositório serve como um **portfólio** das minhas habilidades e conhecim
  ├── exemplos_de_funcoes/ – Exemplos de funções úteis em C.  
  └── funcao_para_cores/ – Manipulação de cores no terminal.
 
-## 📚 Fontes de Estudo
+---
+
+### 📚 Fontes de Estudo
 Este repositório também é baseado em diversos materiais de estudo, incluindo:
 - **Plataforma [Estudonauta](https://www.estudonauta.com/)**, do professor **[Gustavo Guanabara](https://www.linkedin.com/in/guanabara/?originalSubdomain=br)**
 - Cursos no YouTube:
@@ -55,7 +63,9 @@ Este repositório também é baseado em diversos materiais de estudo, incluindo:
   - [_Algoritmos e Programação em Linguagem C_](https://fateczlads.wordpress.com/wp-content/uploads/2014/01/algoritmos-manzano.pdf) (Manzano)
 - Pesquisas no **[Stack Overflow](https://pt.stackoverflow.com/search?q=linguagem+c)** e outras comunidades de programação.
 
-## ✅ Conclusão
+---
+
+### ✅ Conclusão
 Este repositório reflete minha evolução na **Linguagem C** e serve como referência para meus futuros projetos e desafios na área da programação. Espero que este material também possa ser útil para outros estudantes que desejam aprimorar suas habilidades na linguagem.
 
 ---
